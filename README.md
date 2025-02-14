@@ -24,7 +24,7 @@
 <p>Ever thought of looking cool with awesome and comfortable kicks? Worry less as Dropstep has a variety of shoes from big brands that has the best quality and comfort with awesome colours in a single shoe.
 </p>
 
-<img src="images.jfif">
+<img src="images.jfif" "32efe47c_f9ba_4e86_a5bb_912ec737c5dd.webp>
 
 
 </main>
