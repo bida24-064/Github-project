@@ -26,7 +26,9 @@
 
 <img src="images.jfif">
  <img src="nike.jfif" >
-
+ 
+ <p>About us:</p>
+  <P> Contacts: +26773045940</P>
 
 </main>
 
