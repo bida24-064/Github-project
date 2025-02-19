@@ -11,13 +11,16 @@
 </head> 
 
 <body>
-
+ 
 <header>
 
 <h1>Giving you the best quality and comfortable kicks to make you feel like walking on air!</h1>
 <nav> 
-<a href="index.html">Home</a>
-<a href="about
+   <a href="index.html">Home</a>
+   <a href="about.html".About</a>
+   <a href="contact.html">Contact</a>
+
+  </nav>
 
 </header>
 
